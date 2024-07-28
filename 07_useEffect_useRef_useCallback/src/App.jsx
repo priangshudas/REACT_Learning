@@ -58,7 +58,7 @@ function App() {
         className="w-3/5 max-sm:w-5/6  h-3/5 max-sm:h-2/5 bg-white/30 rounded-lg backdrop-blur shadow-2xl flex flex-col justify-center items-center gap-12"
       >
         <h1 id="h1" className="text-2xl font-semibold">
-          Password Genarator
+          Password Generator
         </h1>
         <div id="inner-1" className=" w-11/12 flex items-center justify-center">
           <input
@@ -129,7 +129,7 @@ function App() {
           </div>
         </div>
       </div>
-      <h1 className="mb-5">Made by Prianghsu with ❤️</h1>
+      <h1 className="mb-5">Made by Priangshu with ❤️</h1>
     </div>
   );
 }
